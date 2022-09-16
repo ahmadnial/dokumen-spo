@@ -1,0 +1,400 @@
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(update.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 7
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'update.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 7
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(insert.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 8
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'insert.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 8
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(addpasienbaru-form.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 9
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'addpasienbaru-form.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 9
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(addpasienbaru.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 10
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'addpasienbaru.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 10
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(UpdateForm.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 11
+[16-Mar-2022 10:17:51 Asia/Jakarta] PHP Warning:  include(): Failed opening 'UpdateForm.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 11
+[16-Mar-2022 10:18:22 Asia/Jakarta] PHP Warning:  include(conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 6
+[16-Mar-2022 10:18:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 6
+[26-Mar-2022 12:46:21 Asia/Jakarta] PHP Warning:  include(template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 2
+[26-Mar-2022 12:46:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 2
+[28-Mar-2022 11:58:21 Asia/Jakarta] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\index.php on line 288
+[28-Mar-2022 11:58:21 Asia/Jakarta] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\index.php on line 288
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Warning:  include(../../conn.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 3
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../conn.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 3
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Warning:  include(../../template/header.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 4
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/header.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 4
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Warning:  Undefined variable $conn in D:\nial_app\akre\upload.php on line 90
+[14-Sep-2022 09:01:16 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_query(): Argument #1 ($conn) must be of type resource, null given in D:\nial_app\akre\upload.php:90
+Stack trace:
+#0 D:\nial_app\akre\upload.php(90): sqlsrv_query(NULL, 'SELECT * FROM s...')
+#1 {main}
+  thrown in D:\nial_app\akre\upload.php on line 90
+[14-Sep-2022 09:01:58 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:01:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:21 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:30 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:36 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:02:36 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:09:56 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:09:56 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:10:15 Asia/Jakarta] PHP Warning:  Array to string conversion in D:\nial_app\akre\upload.php on line 90
+[14-Sep-2022 09:10:42 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:10:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:10:55 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:10:55 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:00 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:00 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(../../template/footer.php): Failed to open stream: No such file or directory in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:11:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../template/footer.php' for inclusion (include_path='.;C:\php\pear') in D:\nial_app\akre\upload.php on line 150
+[14-Sep-2022 09:31:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:36:40 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:37:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:37:07 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:37:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(Asset/save_file/Persyaratan_Camaba.docx): Failed to open stream: No such file or directory in D:\nial_app\akre\proses_upload.php on line 20
+[14-Sep-2022 09:37:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move &quot;D:\nial_app\akre\item\skp_upload\php7641.tmp&quot; to &quot;Asset/save_file/Persyaratan_Camaba.docx&quot; in D:\nial_app\akre\proses_upload.php on line 20
+[14-Sep-2022 09:37:21 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 152
+[14-Sep-2022 09:37:21 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 175
+[14-Sep-2022 09:37:21 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 183
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 152
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 175
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 183
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 152
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 175
+[14-Sep-2022 09:39:01 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 183
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 152
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 175
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 183
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 152
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 175
+[14-Sep-2022 09:39:04 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 183
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 153
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 176
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 153
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "id_file" in D:\nial_app\akre\upload.php on line 176
+[14-Sep-2022 09:40:50 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:42:46 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:42:46 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:42:46 Asia/Jakarta] PHP Warning:  Undefined array key "nm_file" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 09:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:43:35 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:43:54 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:43:54 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 09:43:54 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 10:03:27 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:03:27 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 10:03:27 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 10:03:27 Asia/Jakarta] PHP Warning:  Undefined array key "file/nama" in D:\nial_app\akre\upload.php on line 184
+[14-Sep-2022 10:05:20 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:08:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:07 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in D:\nial_app\akre\upload.php on line 1
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 4
+[14-Sep-2022 10:09:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:09:34 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:10:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:16:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:17:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:17:13 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:18:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:18:29 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:19:54 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:22:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:22:28 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:24:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:24:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:26:26 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:27:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:30:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\akre\proses_upload.php on line 3
+[14-Sep-2022 10:38:55 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[14-Sep-2022 11:38:43 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[14-Sep-2022 11:53:58 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[14-Sep-2022 14:30:36 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:30:04 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:33:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:34:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:34:39 Asia/Jakarta] PHP Warning:  Undefined variable $tgl in D:\nial_app\upload_dokumen\proses_upload.php on line 22
+[15-Sep-2022 09:44:04 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:46:34 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 09:52:27 Asia/Jakarta] PHP Warning:  Undefined variable $tgl in D:\nial_app\upload_dokumen\proses_upload.php on line 22
+[15-Sep-2022 09:53:16 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:22:55 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:32:15 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:32:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:33:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:35:38 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:36:31 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:37:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:38:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:38:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:38:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:38:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:40:07 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:45:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:45:56 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:52:40 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:54:40 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:55:55 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:56:37 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 10:56:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:16:33 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:17:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:17:56 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:19:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:19:36 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[15-Sep-2022 11:27:35 Asia/Jakarta] PHP Warning:  Undefined variable $tgl in D:\nial_app\upload_dokumen\proses_upload.php on line 22
+[16-Sep-2022 08:36:47 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:47:04 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:47:32 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:47:55 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:48:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:48:18 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 08:53:58 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:03:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:03:20 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:03:38 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:03:45 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:04:19 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:05:31 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:06:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:06:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:07:47 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:08:58 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:09:18 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:09:48 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:09:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:10:20 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:10:53 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:11:43 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:12:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:12:54 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:13:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:13:36 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:14:17 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:26:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:26:09 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:26:09 Asia/Jakarta] PHP Fatal error:  Uncaught TypeError: sqlsrv_fetch_array(): supplied resource is not a valid ss_sqlsrv_stmt resource in D:\nial_app\upload_dokumen\upload.php:140
+Stack trace:
+#0 D:\nial_app\upload_dokumen\upload.php(140): sqlsrv_fetch_array(Resource id #6)
+#1 {main}
+  thrown in D:\nial_app\upload_dokumen\upload.php on line 140
+[16-Sep-2022 09:27:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:27:06 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:27:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:27:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:27:28 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:27:28 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:29:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:29:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:29:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:29:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:29:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:29:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:29:36 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:29:39 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:29:39 Asia/Jakarta] PHP Warning:  Undefined array key "del" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:29:45 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:34:27 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:34:27 Asia/Jakarta] PHP Warning:  Undefined array key "del" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:34:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:35:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:35:30 Asia/Jakarta] PHP Warning:  Undefined array key "del" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:35:43 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:35:43 Asia/Jakarta] PHP Warning:  Undefined array key "del" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:35:46 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:35:46 Asia/Jakarta] PHP Warning:  Undefined array key "del" in D:\nial_app\upload_dokumen\delete.php on line 4
+[16-Sep-2022 09:36:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:36:33 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:36:37 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:36:39 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:37:54 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:37:57 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:37:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:38:45 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:38:47 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:38:49 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:08 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:10 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:11 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:30 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:34 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:50 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:51 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:56 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:39:57 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:13 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:18 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:20 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:27 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:40:28 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:02 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:23 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:23 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:41:25 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 09:59:29 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 10:27:22 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 10:27:44 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 10:39:35 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 11:09:23 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 11:25:00 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:44:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:45:42 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:46:50 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:47:18 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:48:14 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:48:24 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:49:01 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:49:18 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:49:50 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:49:57 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:50:03 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:50:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:50:33 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:50:39 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:50:51 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:51:16 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:51:26 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:51:59 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:52:21 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:52:43 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 12:52:50 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 13:02:42 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
+[16-Sep-2022 13:29:48 Asia/Jakarta] PHP Warning:  Undefined array key "upload" in D:\nial_app\upload_dokumen\proses_upload.php on line 3
